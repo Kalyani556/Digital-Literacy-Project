@@ -11,7 +11,7 @@ The objective of this project is to develop essential digital skills required fo
 
 As a Student Digital Ambassador, this project focuses on helping students understand digital tools, online safety, communication etiquette, and cybercrime awareness.  
 
-The project is organized into five tasks, each addressing a key aspect of digital literacy.
+The project is organized into five tasks each addressing a key aspect of digital literacy.
 1. README.md
 2. Project_Report.pdf
 3. Task-1-presentation
