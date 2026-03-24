@@ -14,11 +14,11 @@ As a Student Digital Ambassador, this project focuses on helping students unders
 The project is organized into five tasks each addressing a key aspect of digital literacy.
 1. README.md
 2. Project_Report.pdf
-3. Task-1-presentation
-4. Task-2-portfolio
-5. Task-3-platforms
-6. Task-4-email-etiquette
-7. Task-5-cybercrime
+3. Task-1-Infographic
+4. Task-2-Portfolio
+5. Task-3-Platforms
+6. Task-4-Email-etiquette
+7. Task-5-Cybercrime
 
  Objectives:
 - To understand the concept of digital literacy  
