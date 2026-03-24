@@ -59,8 +59,8 @@ Task 4: Professional Email & Etiquette
  2. Created a social media do’s and don’ts checklist  
 
 Task 5: Cybercrime Awareness
-1.Studied phishing as a cybercrime case  
-2. Created a prevention checklist for online safety  
+ 1.Studied phishing as a cybercrime case  
+ 2. Created a prevention checklist for online safety  
 
 
 Tools & Platforms Used
@@ -71,7 +71,7 @@ Tools & Platforms Used
 5. Google Forms  
 
 
- Key Learnings:
+Key Learnings:
  1.Importance of digital literacy in modern education  
  2.Building and maintaining a professional online presence  
  3.Effective and professional communication  
@@ -80,9 +80,9 @@ Tools & Platforms Used
 
 Cyber Safety Awareness
 This project highlights the importance of:
-1. Using strong passwords  
-2. Avoiding suspicious links  
-3. Protecting personal and financial information  
+ 1. Using strong passwords  
+ 2. Avoiding suspicious links  
+ 3. Protecting personal and financial information  
 
 
 Conclusion
