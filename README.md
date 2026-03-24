@@ -1,6 +1,5 @@
 Digital-Literacy-Project:
 It Includes Infographic, Portfolio, coding practice, email etiquette, and cybercrime awareness tasks.
-CSE0001 – Digital Literacy Project
 
 Student details:
 Name: Menda Kalyani 
