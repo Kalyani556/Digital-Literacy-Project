@@ -31,7 +31,7 @@ The project is organized into five tasks, each addressing a key aspect of digita
 
 Structure:
 
-Task Details
+1.Task Details
 
 Task 1: Digital Literacy Awareness Infographic
 Created an infographic using Canva covering:
@@ -63,7 +63,7 @@ Task 5: Cybercrime Awareness
  2. Created a prevention checklist for online safety  
 
 
-Tools & Platforms Used
+Tools & Platforms Used:
 1. Canva  
 2. GitHub  
 3. LinkedIn  
@@ -85,7 +85,7 @@ This project highlights the importance of:
  3. Protecting personal and financial information  
 
 
-Conclusion
+Conclusion:
 This project enhanced my understanding of digital tools, communication skills, and online safety practices. It helped me become more confident and responsible in using digital technologies.
 
 
