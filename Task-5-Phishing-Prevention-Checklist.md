@@ -1,15 +1,15 @@
 Phishing Prevention Checklist:
-1.Do not click unknown links in emails/messages
-2.Always verify website URLs before logging in
-3.Enable two-factor authentication
-4.Never share OTPs or passwords
-5.Use strong and unique passwords
-6.Avoid public Wi-Fi for financial transactions
-7.Regularly update apps and devices
+1. Do not click unknown links in emails/messages
+2. Always verify website URLs before logging in
+3. Enable two-factor authentication
+4. Never share OTPs or passwords
+5. Use strong and unique passwords
+6. Avoid public Wi-Fi for financial transactions
+7. Regularly update apps and devices
 
 UPI Safety:
-1.Do not approve unknown payment requests
-2.Verify UPI IDs before transactions
+1. Do not approve unknown payment requests
+2. Verify UPI IDs before transactions
 
 
 Report fraud:
