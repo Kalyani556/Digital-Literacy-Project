@@ -33,6 +33,7 @@ Structure:
 1.Task Details
 
 Task 1: Digital Literacy Awareness Infographic:
+
 Created an infographic using Canva covering:
 1. Digital literacy basics  
 2. Safe internet practices  
