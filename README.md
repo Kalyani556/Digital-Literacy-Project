@@ -64,9 +64,8 @@ Task 4: Professional Email & Etiquette
  2. Created a social media do’s and don’ts checklist  
 
 Task 5: Cybercrime Awareness
- 
- 1.Studied phishing as a cybercrime case  
- 2.Created a prevention checklist for online safety  
+ 1. Studied phishing as a cybercrime case  
+ 2. Created a prevention checklist for online safety  
 
 
 Tools & Platforms Used:
