@@ -35,9 +35,10 @@ Structure:
 Task 1: Digital Literacy Awareness Infographic:
 
 Created an infographic using Canva covering:
-1. Digital literacy basics  
-2. Safe internet practices  
-3. Email etiquette  
+1. What is Digital literacy 
+2. Safe internet practices
+3. Useful Digital Tools 
+4. Email etiquette 
 
 Task 2: Student Digital Portfolio
 Set up profiles on:
