@@ -52,7 +52,7 @@ This task helped in building a professional digital identity.
 Task 3: Coding & Collaboration Platforms
 1. Solved a beginner-level problem on CodeChef 
 2. Created a Google Form quiz for digital literacy awareness
-   Link:-
+    Link:-
       https://docs.google.com/forms/d/e/1FAIpQLScuhtEK0WlrCGcKMS0zE9z9i2z9GBQFmgvLGeMO0Zw9TWLfHA/viewform
 
 
