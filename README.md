@@ -24,7 +24,7 @@ The project is organized into five tasks each addressing a key aspect of digital
 - To understand the concept of digital literacy  
 - To build a professional online presence  
 - To explore coding and collaboration platforms  
-- To learn professional email communication  
+- To learn professional email communication
 - To create awareness about cybercrime and online safety  
 
 
@@ -32,7 +32,7 @@ Structure:
 
 1.Task Details
 
-Task 1: Digital Literacy Awareness Infographic
+Task 1: Digital Literacy Awareness Infographic:
 Created an infographic using Canva covering:
 1. Digital literacy basics  
 2. Safe internet practices  
