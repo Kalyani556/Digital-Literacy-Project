@@ -13,7 +13,7 @@ As a Student Digital Ambassador, this project focuses on helping students unders
 
 The project is organized into five tasks each addressing a key aspect of digital literacy.
 1. README.md
-2. Project_Report.pdf
+2. Project-Report
 3. Task-1-Presentation
 4. Task-2-Portfolio
 5. Task-3-Platforms
@@ -44,13 +44,16 @@ Task 2: Student Digital Portfolio
 Set up profiles on:
 - GitHub  
 - LinkedIn  
-- HackerRank  
+- Kaggle
+- CodeChef
 
 This task helped in building a professional digital identity.
 
 Task 3: Coding & Collaboration Platforms
-1. Solved a beginner-level problem on HackerRank  
-2. Created a Google Form quiz for digital literacy awareness  
+1. Solved a beginner-level problem on CodeChef 
+2. Created a Google Form quiz for digital literacy awareness
+   Link:-
+      https://docs.google.com/forms/d/e/1FAIpQLScuhtEK0WlrCGcKMS0zE9z9i2z9GBQFmgvLGeMO0Zw9TWLfHA/viewform
 
 
 Task 4: Professional Email & Etiquette
@@ -61,22 +64,23 @@ Task 4: Professional Email & Etiquette
 
 Task 5: Cybercrime Awareness
  1.Studied phishing as a cybercrime case  
- 2. Created a prevention checklist for online safety  
+ 2.Created a prevention checklist for online safety  
 
 
 Tools & Platforms Used:
 1. Canva  
 2. GitHub  
 3. LinkedIn  
-4. HackerRank  
+4. CodeChef  
 5. Google Forms  
 
 
 Key Learnings:
  1.Importance of digital literacy in modern education  
- 2.Building and maintaining a professional online presence  
- 3.Effective and professional communication  
- 4.Awareness of cyber threats and preventive measures  
+ 2.Building and maintaining a professional online presence
+ 3.Competitive Coding Platforms to apply our skills
+ 4.Effective and professional E-Mail communication  
+ 5.Awareness of cyber threats and preventive measures  
 
 
 Cyber Safety Awareness
@@ -87,12 +91,12 @@ This project highlights the importance of:
 
 
 Conclusion:
-This project enhanced my understanding of digital tools, communication skills, and online safety practices. It helped me become more confident and responsible in using digital technologies.
+This project enhanced my understanding of digital tools, online communication skills, and online safety practices. It helped me become more confident and responsible in using digital technologies.
 
 
 References
 1. https://www.canva.com  
-2. https://www.github.com  
-3. https://www.linkedin.com  
-4. https://www.hackerrank.com  
-5. https://forms.google.com  
+2. https://github.com  
+3. https://in.linkedin.com  
+4. https://www.codechef.com  
+5. https://docs.google.com  
